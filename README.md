@@ -1,2 +1,15 @@
-# Protocol-Safety-Reviews
-Protocol-Safety-Reviews
+# DeFi Insurance & Risk Log (去中心化保险与风险分析)
+
+本仓库用于深入研究和记录 DeFi 协议中的保险机制、清算风险，以及去中心化保险平台（如 Nexus Mutual）的运作模式。
+
+本仓库旨在：
+1. 分析如何通过保险降低智能合约漏洞和预言机攻击的风险。
+2. 追踪协议的偿付能力证明（Proof-of-Solvency）机制。
+
+---
+
+## 🛡️ 查看每日风险分析
+
+所有最新的保险协议和风险评估笔记都记录在以下文件中：
+
+**👉 点击这里查看 [LINKS.md](./LINKS.md)**
